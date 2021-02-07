@@ -1,0 +1,22 @@
+[
+    {
+        "status": "Needs Analysis",
+        "statusCount": "1"
+    },
+    {
+        "status": "Presentation",
+        "statusCount": "3"
+    },
+    {
+        "status": "Proposal",
+        "statusCount": "2"
+    },
+    {
+        "status": "Closed won",
+        "statusCount": "2"
+    },
+    {
+        "status": "Closed lost",
+        "statusCount": "1"
+    }
+]

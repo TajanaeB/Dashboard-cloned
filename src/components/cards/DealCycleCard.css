@@ -1,0 +1,22 @@
+
+
+
+.container{
+    display: flex;
+    flex-wrap: wrap;
+    border: 2px lightgray solid;
+    background-color: rgb(5, 128, 168);
+    margin-right: 65px;
+    margin-left: 50px;
+}
+
+
+.status {
+    border: 3px lightgray solid;
+}
+
+.status-count {
+    margin-left: 70px;
+    border: 3px lightgray solid;
+    font-size: medium;
+}

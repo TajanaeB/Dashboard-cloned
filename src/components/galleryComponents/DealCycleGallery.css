@@ -1,0 +1,11 @@
+
+.deal-gallery {
+    border-color: lightgray;
+    border-style: solid;
+    border-width: 2px;
+    color: white;
+    display: flex;
+    margin-right: -20px;
+    margin-left: 50px;
+    width: 200px;
+}

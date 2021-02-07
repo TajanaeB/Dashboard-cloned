@@ -1,0 +1,35 @@
+//component layout
+
+//1. App
+
+    style css
+
+
+//2. Card individuals
+<div className="Card">
+
+    blue title
+
+    photo
+    name & company name & closed type
+
+    number sales
+
+</div>
+
+//3. Card Gallery
+
+<span > -- makes same line
+<p> --- for new lines on top of each other
+
+//4. Deal Cycle Header individuals
+<div className="Header">
+
+    title
+    boxed number 
+
+</div>
+
+//5. Header Gallery
+
+        proposal, presentation, closed

@@ -1,0 +1,75 @@
+[
+    {
+        "dealPath": "926/GemStack/SpaceGems",
+        "clientCompany": "GemStack",
+        "salesRepName": "Kalyn Johnson",
+        "dealAmount": "122,200.00",
+        "dealStage": "Proposal",
+        "image": "https://images.unsplash.com/photo-1571844311135-7aa6c04b4ddd?ixid=MXwxMjA3fDB8MHxzZWFyY2h8NHx8YnVzaW5lc3MlMjB3b21hbnxlbnwwfHwwfA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+        "dealPath": "2187/TheRepublic/Blaster",
+        "clientCompany": "TheRepublic",
+        "salesRepName": "Jorge Organa",
+        "dealAmount": "48,000.00",
+        "dealStage": "Closed Won",
+        "image": "https://images.unsplash.com/photo-1582015752624-e8b1c75e3711?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MTd8fGJsYWNrJTIwYnVzaW5lc3MlMjBtYW58ZW58MHx8MHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+        "dealPath": "2/TheEmpire/DeathStars",
+        "clientCompany": "The Empire",
+        "salesRepName": "Anakin Skywalker",
+        "dealAmount": "7,700.00",
+        "dealStage": "Closed Lost",
+        "image": "https://images.unsplash.com/photo-1582896911227-c966f6e7fb93?ixid=MXwxMjA3fDB8MHxzZWFyY2h8N3x8YnVzaW5lc3MlMjB3b21hbnxlbnwwfHwwfA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+        "dealPath": "1997/Chulak/StaffWeapons",
+        "clientCompany": "Chulak",
+        "salesRepName": "Tyron Thomas",
+        "dealAmount": "100,000.00",
+        "dealStage": "Presentation",
+        "image": "https://images.unsplash.com/photo-1514222709107-a180c68d72b4?ixid=MXwxMjA3fDB8MHxzZWFyY2h8Mjd8fGJsYWNrJTIwYnVzaW5lc3NtYW58ZW58MHx8MHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+        "dealPath": "013/Nuclon/Sale of Services",
+        "clientCompany": "Nuclon",
+        "salesRepName": "Lanyah Robinson",
+        "dealAmount": "15,000.00",
+        "dealStage": "Presentation",
+        "image": "https://images.unsplash.com/photo-1573496358961-3c82861ab8f4?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MjI2fHxidXNpbmVzcyUyMHdvbWFufGVufDB8fDB8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+        "dealPath": "1997/TheDoctor/TARDIS",
+        "clientCompany": "The Doctor",
+        "salesRepName": "Rose Tyler",
+        "dealAmount": "25,000.00",
+        "dealStage": "Needs Analysis",
+        "image": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?ixid=MXwxMjA3fDB8MHxzZWFyY2h8M3x8YnVzaW5lc3MlMjB3b21hbnxlbnwwfHwwfA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+        "dealPath": "015/Alpha Business/Package",
+        "clientCompany": "Alpha Business",
+        "salesRepName": "Symon Clarke",
+        "dealAmount": "9,880.00",
+        "dealStage": "Proposal",
+        "image": "https://images.unsplash.com/photo-1568493021943-4077b55c95a3?ixid=MXwxMjA3fDB8MHxzZWFyY2h8Mjh8fGJ1c2luZXNzJTIwbWVufGVufDB8fDB8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+        "dealPath": "034/Integral/Sale of Goods",
+        "clientCompany": "Integral",
+        "salesRepName": "Valerie E. Murphy",
+        "dealAmount": "10,450.00",
+        "dealStage": "Presentation",
+        "image": "https://images.unsplash.com/photo-1573497161161-c3e73707e25c?ixid=MXwxMjA3fDB8MHxzZWFyY2h8NDI1fHxidXNpbmVzcyUyMHdvbWFufGVufDB8fDB8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+},
+{
+        "dealPath": "Axiom/5",
+        "clientCompany": "Axiom",
+        "salesRepName": "Linda Rodriguez",
+        "dealAmount": "12,880.30",
+        "dealStage": "Closed Won",
+        "image": "https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MjB8fGJ1c2luZXNzJTIwd29tYW58ZW58MHx8MHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+}
+
+]
